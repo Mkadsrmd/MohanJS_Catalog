@@ -1,0 +1,10 @@
+{
+  "name": "Jewellery Catalogue",
+  "short_name": "Catalogue",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f3f0",
+  "theme_color": "#172231",
+  "icons": [{"src":"/icon.png","sizes":"512x512","type":"image/png"}]
+}
